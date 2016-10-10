@@ -5,7 +5,7 @@
 	h4{font:150% Arial; color:black; text-align:left}
 	p{color: black; font: 120% Arial}
 	section#content ul li{font: 150% Arial;list-style-type: square;list-style-position:outside}
-	#wrapper{width:1100px; margin: 0 auto; padding: 0 50px; text-align:left; position: relative;}
+	#wrapper{width:1180px; margin: 0 auto; padding: 0 50px; text-align:left; position: relative;}
 	header#mainHeader{height:200px; background: url(Images/logo.png) no-repeat 25px center; padding: 0 75px 0 300px; position:relative;
 	border-bottom: 2px solid #7f7f7f; margin-bottom: 0px;}
 	header#mainHeader div{margin-top:16px;}
@@ -16,6 +16,5 @@
 	header#mainHeader ul li a:hover{color: #6983ad;}
 	section#content {float: left;width: 600px;padding: 0 10px 0 25px;margin-bottom: 10px;border-right: 1px solid #7f7f7f;}
 	aside#events {font-size: 90%; float: right; width: 450px; margin-bottom: 20px}
-	aside#events a href{size: 120%}
 	footer#pageFooter {clear: both;border-top: 2px solid #7f7f7f;padding: 20px;}
 	footer#pageFooter p {text-align: center;font-style: italic;margin-bottom: 10px;color: #666;}
