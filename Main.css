@@ -1,7 +1,8 @@
 @ charset "UTF-8";
 
-	body{background:#a9c2cc; font: 100% Georgia, Times, serif;}
+	body{background:#d3dded; font: 100% Georgia, Times, serif;}
 	h1{font:300% Arial, Helvetica, sans-serif; color: blue;}
+	h2{font: 175% Arial, Helvetica, sand-serif; color: black}
 	h4{font:150% Arial; color:black; text-align:left}
 	p{color: black; font: 120% Arial}
 	section#content ul li{font: 150% Arial;list-style-type: square;list-style-position:outside}
@@ -13,7 +14,7 @@
 	header#mainHeader ul li{float: left;}
 	header#mainHeader ul li a{color: blue; font-family: Arial, Helvetica; font-size: 20px; padding: 0 20px; border-right: 1px solid #000;\
 	text-decoration: none; }
-	header#mainHeader ul li a:hover{color: #6983ad;}
+	header#mainHeader ul li a:hover{color: #d3dded;}
 	section#content {float: left;width: 600px;padding: 0 10px 0 25px;margin-bottom: 10px;border-right: 1px solid #7f7f7f;}
 	aside#events {font-size: 90%; float: right; width: 450px; margin-bottom: 20px}
 	footer#pageFooter {clear: both;border-top: 2px solid #7f7f7f;padding: 20px;}
