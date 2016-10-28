@@ -1,6 +1,6 @@
 @ charset "UTF-8";
 
-	body{background-image:; font: 100% Georgia, Times, serif;}
+	body{background-color:#edf1f7; font: 100% Georgia, Times, serif;}
 	h1{font:300% Arial, Helvetica, sans-serif; color: blue;}
 	h2{font: 175% Arial, Helvetica, sand-serif; color: black}
 	section#content h4{font:150% Arial; color:black; text-align:left}
